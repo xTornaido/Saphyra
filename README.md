@@ -1,7 +1,7 @@
 # 🌊 Saphyra
  ## DDoS Script
 
-    ```Don't use for malicious reasons. You can use it for testing, trolling your friends or learning from the code.```
+  Don't use for malicious reasons. You can use it for testing, trolling your friends or learning from the code.
 
   A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic. DDoS attacks achieve effectiveness by utilizing multiple compromised computer systems as sources of attack traffic. Exploited machines can include computers and other networked resources such as IoT devices. From a high level, a DDoS attack is like an unexpected traffic jam clogging up the highway, preventing regular traffic from arriving at its destination.
 
