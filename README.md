@@ -6,7 +6,7 @@
   A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic. DDoS attacks achieve effectiveness by utilizing multiple compromised computer systems as sources of attack traffic. Exploited machines can include computers and other networked resources such as IoT devices. From a high level, a DDoS attack is like an unexpected traffic jam clogging up the highway, preventing regular traffic from arriving at its destination.
 
   ### Layer 4
-  <img align="left" alt="PNG" src="https://raw.githubusercontent.com/xTornaido/Saphyra/master/Layer-4/images/example.png" width="380" height="280" />
+  <img align="left" alt="PNG" src="https://raw.githubusercontent.com/xTornaido/Saphyra/master/Layer-4/images/example.png" width="380" height="260" />
   Layer 4 DDoS attacks are often referred to as SYN flood. It works at the TCP (Transport Protocol) layer. A TCP connection is established in what is known as a 3-way handshake. The client sends a SYN packet, the server responds with a SYN-ACK, and the client responds to that with an ACK. after the "three-way-handshake" is complete, the TCP connection is considered established.<br />
 
   Usage: ```python Saphyra-4.py {ip} {port} {time} {method}``` <br />
